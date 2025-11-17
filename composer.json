@@ -12,8 +12,8 @@
   "minimum-stability": "stable",
   "require": {
     "php": "8.*",
-    "guzzlehttp/guzzle": "^7.3.0",
-    "symfony/serializer": "^5.1",
+    "guzzlehttp/guzzle": "7.4.5.0",
+    "symfony/serializer": "5.3.12.0",
     "symfony/property-access": "^5.1",
     "phpdocumentor/reflection-docblock": "^5.2",
     "psr/log": "^3.0"

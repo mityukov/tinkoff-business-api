@@ -1,3 +1,5 @@
+Данный форк меняет зависимость от psr/log v1 на psr/log v3 для совместимости с Laravel v12.
+
 # PHP-клиент для API Тинькофф Бизнес
 
 Позволяет делать запросы к [OpenAPI](https://business.tinkoff.ru/openapi/docs) сервиса Тинькофф Бизнес на языке PHP.

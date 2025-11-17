@@ -1,5 +1,5 @@
 {
-  "name": "kiriunin/tinkoff-business-api",
+  "name": "mityukov/tinkoff-business-api",
   "description": "PHP client for Tinkoff Business API",
   "type": "library",
   "authors": [
